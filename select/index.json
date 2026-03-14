@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Falling Down",
+  "base_artist": "(sic)boy",
+  "createdAt": "2026-03-14T20:38:38.769609Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Falling Down",
+      "artist": "Lil Peep feat. XXXTENTACION",
+      "has_synced": true,
+      "path": "select/01_Falling_Down_Lil_Peep_feat._XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Falling Down (feat. XXXTentacion)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/02_Falling_Down_(feat._XXXTentacion)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Let's Kiss) While All the Stars Are Falling Down",
+      "artist": "Hammock",
+      "has_synced": true,
+      "path": "select/03_(Let's_Kiss)_While_All_the_Stars_Are_Falling_Down_Hammock.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Falling Down",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": true,
+      "path": "select/04_Falling_Down_Jean-Michel_Jarre.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Falling Down",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_Falling_Down_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Falling Down",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/06_Falling_Down_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Falling Down",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/07_Falling_Down_Travis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Falling Down (A Monstrous Psychedelic Bubble Mix)",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/08_Falling_Down_(A_Monstrous_Psychedelic_Bubble_Mix)_Oasis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Falling Down - The Gibb Mix By Twiggy/Sardy",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/09_Falling_Down_-_The_Gibb_Mix_By_Twiggy_Sardy_Oasis.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Falling Down (The Gibb Mix) by Twiggy\u0000Sardy",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/10_Falling_Down_(The_Gibb_Mix)_by_Twiggy\u0000Sardy_Oasis.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Falling Down (The Prodigy Version)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/11_Falling_Down_(The_Prodigy_Version)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Falling Down - The Chemical Brothers remix",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/12_Falling_Down_-_The_Chemical_Brothers_remix_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kiss the Dirt (Falling Down the Mountain)",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/13_Kiss_the_Dirt_(Falling_Down_the_Mountain)_INXS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Falling Down",
+      "artist": "Laika",
+      "has_synced": false,
+      "path": "select/14_Falling_Down_Laika.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Falling Down",
+      "artist": "Somerset",
+      "has_synced": false,
+      "path": "select/15_Falling_Down_Somerset.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Falling Down",
+      "artist": "Chapterhouse",
+      "has_synced": true,
+      "path": "select/16_Falling_Down_Chapterhouse.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Falling Down",
+      "artist": "Drippin So Pretty",
+      "has_synced": true,
+      "path": "select/17_Falling_Down_Drippin_So_Pretty.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Falling Down",
+      "artist": "(sic)boy",
+      "has_synced": false,
+      "path": "select/pl_01_Falling_Down_(sic)boy.txt"
+    }
+  ]
+}
